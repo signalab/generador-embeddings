@@ -1,6 +1,7 @@
 .DS_Store
 **/.DS_Store
 modelos/
+cuadernos/archivo/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
