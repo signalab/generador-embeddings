@@ -5,7 +5,6 @@ Cuadernos de código abierto para generar, visualizar y explorar _embeddings_ de
 ## Descripción
 Cuadernos de código abierto diseñados para importar cualquier cuerpo de texto separado por filas, en formato CSV o Excel, y generar incrustaciones de texto (*embeddings*) para cada fila, que permitan visualizar sus relaciones y agrupaciones semánticas, así como ejecutar consultas de búsqueda semántica, con ayuda de modelos de lenguaje de la librería [sentence-transformers](https://www.sbert.net/), alojados en repositorios de [HuggingFace](https://huggingface.co/sentence-transformers) (en la nube) o descargados localmente.
 
----
 
 ## Cuadernos
 - **Cuaderno 01:** Limpieza y depuración de texto. ([Jupyter Notebook](https://github.com/signalab/generador-embeddings/blob/main/cuadernos/01_Signa_Lab_generador_embeddings_Depuraci%C3%B3n_importar_limpiar_depurar_texto_02.ipynb) / [Google Colab](https://colab.research.google.com/drive/1HH5a-eJ6-gtKQBVojxeKmb_NhxZhCPt2?usp=sharing))
@@ -16,16 +15,10 @@ Cuadernos de código abierto diseñados para importar cualquier cuerpo de texto 
 ![SL_generador-embedings_3Dviz-demo_03-min](https://github.com/user-attachments/assets/0ebec356-12f2-44ef-9569-b98f7874530d)
 
 
-
-
-
----
-
 ## Tutoriales
 Puedes revisar los video tutoriales para guiar tu uso de estos cuadernos en la siguiente [lista de reproducción de YouTube](https://www.youtube.com/watch?v=LSMDd9im_hQ&list=PLR5StpKSfq4bj00-8Ex8-OmxMdzKXA0kl).
 [![Watch the video](https://img.youtube.com/vi/LSMDd9im_hQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LSMDd9im_hQ&list=PLR5StpKSfq4bj00-8Ex8-OmxMdzKXA0kl)
 
----
 
 ## Sobre estos cuadernos
 Desde el pensamiento crítico hay cada vez más discusiones acerca de la Inteligencia Artificial y de su incidencia en distintos ámbitos de la realidad social, así como múltiples cursos y experiencias de apropiación crítica de diversas herramientas de Inteligencia Artificial Generativa. Sin embargo, desde el pensamiento crítico hay poco, y en español todavía menos, desarrollo de herramientas con Inteligencia Artificial.
@@ -40,7 +33,6 @@ Los cuadernos desarrollados por Signa_Lab ITESO parten del supuesto de que una m
 
 Nuestro objetivo es contribuir a la generación de rutas que además de buscar la apropiación crítica de la inteligencia artificial, también incentiven el desarrollo de este tipo de herramientas desde el pensamiento crítico.
 
----
 
 ## Dependencias e instalación
 
@@ -68,12 +60,8 @@ modelo = "intfloat/multilingual-e5-large-instruct"
 embedder = SentenceTransformer(modelo)
 ```
 
----
-
 ## Licencia
 El código y contenidos de este repositorio están publicados como software libre bajo la [Licencia MIT](LICENSE), que corresponde a la misma licencia del modelo de lenguaje sugerido por default [intfloat/multilingual-e5-large-instruct](https://huggingface.co/intfloat/multilingual-e5-large-instruct)
-
----
 
 
 ## Créditos
