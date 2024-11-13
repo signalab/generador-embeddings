@@ -33,6 +33,13 @@ Los cuadernos desarrollados por Signa_Lab ITESO parten del supuesto de que una m
 
 Nuestro objetivo es contribuir a la generación de rutas que además de buscar la apropiación crítica de la inteligencia artificial, también incentiven el desarrollo de este tipo de herramientas desde el pensamiento crítico.
 
+![DIAGRAMA CUADERNO_01-min](https://github.com/user-attachments/assets/cb174e1a-e1c2-4afa-86f1-ea18acd50f04)
+
+![DIAGRAMA CUADERNO_02-min](https://github.com/user-attachments/assets/5b04e310-6f94-4aeb-87e6-ecc84ce3a371)
+
+![DIAGRAMA CUADERNO_03-min](https://github.com/user-attachments/assets/fc7208a7-1423-4cf9-8fe7-42f58c48626a)
+
+
 
 ## Dependencias e instalación
 
