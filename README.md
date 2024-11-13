@@ -41,7 +41,7 @@ Nuestro objetivo es contribuir a la generación de rutas que además de buscar l
 
 
 
-## Dependencias e instalación
+## Dependencias e instalación (para ejecución local)
 
 ### Entorno de ejecución
 El código desarrollado y contenido en los cuadernos de este repositorio requiere la instalación de [Python versión 3.9](https://www.python.org/downloads/) o más alta.
