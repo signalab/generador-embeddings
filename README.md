@@ -76,7 +76,7 @@ Diego Arredondo Ortiz
 - **Equipo de Coordinación Signa_Lab ITESO:** 
 Paloma López Portillo Vázquez, Víctor Hugo Ábrego Molina y Eduardo G. de Quevedo Sánchez
 
-Mayo, 2024. Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO) Tlaquepaque, Jalisco, México.
+Octubre, 2024. Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO) Tlaquepaque, Jalisco, México.
 
 ## Referencias
 - Bird, Steven, Edward Loper & Ewan Klein (2009). *Natural Language Processing with Python*. O'Reilly Media Inc.
