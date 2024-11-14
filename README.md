@@ -17,7 +17,8 @@ Cuadernos de código abierto diseñados para importar cualquier cuerpo de texto 
 
 ## Tutoriales
 Puedes revisar los video tutoriales para guiar tu uso de estos cuadernos en la siguiente [lista de reproducción de YouTube](https://www.youtube.com/watch?v=LSMDd9im_hQ&list=PLR5StpKSfq4bj00-8Ex8-OmxMdzKXA0kl).
-[![Watch the video](https://img.youtube.com/vi/LSMDd9im_hQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LSMDd9im_hQ&list=PLR5StpKSfq4bj00-8Ex8-OmxMdzKXA0kl)
+[![Ver tutoriales en YouTube](https://github.com/user-attachments/assets/6c06d985-a7bd-4ca9-b015-66f55df8011f)](https://www.youtube.com/watch?v=LSMDd9im_hQ&list=PLR5StpKSfq4bj00-8Ex8-OmxMdzKXA0kl)
+
 
 
 ## Sobre estos cuadernos
