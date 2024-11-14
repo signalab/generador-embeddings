@@ -10,7 +10,7 @@ Cuadernos de código abierto diseñados para importar cualquier cuerpo de texto 
 - **Cuaderno 01:** Limpieza y depuración de texto. ([Jupyter Notebook](https://github.com/signalab/generador-embeddings/blob/main/cuadernos/01_Signa_Lab_generador_embeddings_Depuraci%C3%B3n_importar_limpiar_depurar_texto_02.ipynb) / [Google Colab](https://colab.research.google.com/drive/1HH5a-eJ6-gtKQBVojxeKmb_NhxZhCPt2?usp=sharing))
 
 - **Cuaderno 02:** Generación de embeddings y clusterización.([Jupyter Notebook](https://github.com/signalab/generador-embeddings/blob/main/cuadernos/02_Signa_Lab_generador_embeddings_Generar_procesar_reducir_clusterizar_embeddings_02.ipynb) / [Google Colab](https://colab.research.google.com/drive/1QidtVoTqUfyRmWFCqh_IxnwOS11W1g53?usp=sharing))
-- **Cuaderno 03:** Exploración de consultas y relaciones semánticas. ([Jupyter Notebook](https://github.com/signalab/generador-embeddings/blob/main/cuadernos/03_Signa_Lab_generador_embeddings_Explorar_visualizar_relaciones_sem%C3%A1nticas_02.ipynb) / [Google Colab](https://colab.research.google.com/drive/1jh6pB3qSWcfVSdHUfG_Mlh44EJSOln0n?usp=sharing))
+- **Cuaderno 03:** Exploración de consultas y relaciones semánticas. ([Jupyter Notebook](https://github.com/signalab/generador-embeddings/blob/main/cuadernos/03_Signa_Lab_generador_embeddings_Explorar_visualizar_relaciones_sem%C3%A1nticas_03.ipynb) / [Google Colab](https://colab.research.google.com/drive/1jh6pB3qSWcfVSdHUfG_Mlh44EJSOln0n?usp=sharing))
 
 ![SL_generador-embedings_3Dviz-demo_03-min](https://github.com/user-attachments/assets/0ebec356-12f2-44ef-9569-b98f7874530d)
 
